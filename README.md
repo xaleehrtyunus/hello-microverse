@@ -1,30 +1,22 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# MICROVERSE PROJECT 1
 
-> One paragraph statement about the project.
+![screenshot](./hello microverse.png)
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+html and css is used for this project, it is about welcoming new students to microverse activities html stands for Hyper text mark-up language and Css stands for Cascading style sheet and it is used for styling a Webpage
 
 ## Built With
 
 - Major languages
-- Frameworks
-- Technologies used
+- html
+- css
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
+```
+Login to your Git hub account and access the repository by clicking the link provided to download the repository: https://github.com/xaleehrtyunus
+```
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
@@ -43,17 +35,9 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Zaliha Gambo Yunusa**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/xaleehrtyunus)
 
 ## 🤝 Contributing
 
